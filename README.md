@@ -27,3 +27,27 @@ Plot Details:
   
 Observations:
   There is no corelation between the road accidents due to alcohol/drug consumption and the road accidents due to overspeeding.
+
+
+
+## Plot 3
+source: https://data.gov.in/resources/year-wise-women-officers-commissioned-defence-forces-2016-2018-ministry-defence
+
+Data Description:
+Year-wise Women Officers Commissioned in the Defence Forces from 2016 to 2018 (From : Ministry of Defence)
+
+Plot Details:
+A grouped bar-chart displays the number of Women officers commisioned in defence forces from 2016 to 2018, in Army, Navy, Airforce and "Army Medical Corps, Dental Corps & Military Nursing Service (Common for three forces)".
+
+Observations:
+  1. Majority of commisioned women officers are in Army Medical Corps, Dental Corps & Military Nursing Service. 
+  2. Least number of commisioned women officers are in Navy.
+
+
+
+
+
+
+
+
+
